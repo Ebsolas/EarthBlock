@@ -2,8 +2,9 @@
   "name": "earthblock",
   "displayName": "EarthBlock",
   "description": "Terraria wiki Inspired. Soothing browns with an accent of green to really give it that nostalgic feel.",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "publisher": "Ebsolas",
+  "icon": "images/EarthBlockLogo.png",
   "engines": {
     "vscode": "^1.102.0"
   },
