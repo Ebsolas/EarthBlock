@@ -1,0 +1,26 @@
+{
+  "name": "earthblock",
+  "displayName": "EarthBlock",
+  "description": "Terraria wiki Inspired. Soothing browns with an accent of green to really give it that nostalgic feel.",
+  "version": "0.0.1",
+  "publisher": "Ebsolas",
+  "engines": {
+    "vscode": "^1.102.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "EarthBlock",
+        "uiTheme": "vs-dark",
+        "path": "./themes/EarthBlock-color-theme.json"
+      }
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Ebsolas/EarthBlock.git"
+  }
+}

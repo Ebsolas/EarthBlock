@@ -1,2 +1,3 @@
-# EarthBlock
-Terraria wiki Inspired. Soothing browns with an accent of green to really give it that nostalgic feel.
+# earthblock README
+
+Tis' a theme. Gives VS Code a nice earthy feel inspired by the Terraria wiki's theme from back in the day.
